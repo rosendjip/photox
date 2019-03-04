@@ -7,7 +7,7 @@ body {
 header
 {
     height: 100vh;
-    background:   url(images/header-img.jpeg) no-repeat center center /cover;
+    background:   url("images/header-img.jpeg") no-repeat center center /cover;
 }
 /*End of header*/
 
